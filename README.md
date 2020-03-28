@@ -14,3 +14,9 @@ You can find my design tokens collection documentation [here](https://app.design
 ```bash
 npm i
 ```
+
+## Run
+
+```bash
+npm start
+```
